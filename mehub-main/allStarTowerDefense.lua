@@ -1,1 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Shakynee/MEHUB/tree/main/mehub-main/animeLastStand.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Shakynee/MEHUB/main/mehub-main/animeLastStand.lua
+"))()
